@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "みかげ日記",
+  "base_artist": "はるまきごはん",
+  "createdAt": "2026-01-12T11:36:54.635664Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "みかげ日記",
+      "artist": "はるまきごはん",
+      "has_synced": false,
+      "path": "select/pl_01_みかげ日記_はるまきごはん.txt"
+    }
+  ]
+}
